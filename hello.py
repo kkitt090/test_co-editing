@@ -104,7 +104,7 @@ result = a001.jedge(ave)
 print(ave)
 print(a001.name+" "+result)
 
-
+print("ヤッホー")
 
 
 
