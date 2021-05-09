@@ -106,5 +106,7 @@ print(a001.name+" "+result)
 
 print("ヤッホー")
 
+print("ヤッホー")
+
 
 
